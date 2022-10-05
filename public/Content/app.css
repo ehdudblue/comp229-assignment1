@@ -1,1 +1,8 @@
+/* Assignment1 / Do Young Lee / 301108844 / 2022-10-05 */
 /* custom css goes here */
+
+/* Container for img in the projects page */
+.container1 img {
+    width: 600px;
+    height: 400px;
+}
