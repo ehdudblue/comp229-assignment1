@@ -14,7 +14,7 @@
 // It directs users to the homepage when the "send button" is clicked
 (function() {
     function send() {
-        window.location.href = "http://localhost:3000/";
+        window.location.href = "/home";
     }
     document.getElementById('send').addEventListener("click", send);
 })();
